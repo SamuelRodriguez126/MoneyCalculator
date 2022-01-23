@@ -1,0 +1,7 @@
+modelcalculator\view\View.class
+moneycalculator\model\ExchangeRate.class
+modelcalculator\controller\MoneyCalculator.class
+moneycalculator\persistance\CurrenciesFileReader.class
+moneycalculator\model\Currency.class
+modelcalculator\controller\MainProgram.class
+moneycalculator\persistance\CurrenciesLoader.class
